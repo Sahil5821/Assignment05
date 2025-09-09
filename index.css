@@ -1,0 +1,53 @@
+.navbar{
+    align-items:;
+    border-bottom: 1px solid ;
+}
+
+.nav-list {
+            display: flex;
+            list-style: none;
+        }
+
+a:hover{
+    background-color: yellow;
+    font-size: larger;
+}
+
+/* .space{
+    font-size: larger;
+    text-align:center;
+
+    margin: 20px;
+} */
+
+.navbar {
+
+            display:flex;
+            position: sticky;
+            text-align: center;
+            justify-content: space-between;
+            top: 0px;
+            background: rgb(255 127 39);
+            background-blend-mode: darken;
+            background-size: cover;
+            color: white;
+            padding: 10px 20px;
+        }
+
+.bgimage{
+    background-image:url(istockphoto-939184094-2048x2048.jpg);
+    height:570px;
+    width: 1510px;
+    background-size: cover;
+}
+
+.position{
+    text-align: center;
+    color: gold;
+    background-color: ;
+}
+
+td{
+    word-spacing: 50px;
+    border: 2px solid rgb(255, 0, 0);
+}
